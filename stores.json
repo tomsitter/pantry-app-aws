@@ -1,0 +1,56 @@
+[
+  {
+    "description_str": "Small grocery store",
+    "store_name_str": "Quality Foods - Courtenay",
+    "store_type_str": "grocery",
+    "location_city_str": "Courtenay",
+    "location_country_str": "Canada",
+    "location_neighborhood_str": "2751 Cliffe Ave",
+    "location_state_str": "british columbia"
+  },
+  {
+    "description_str": "Small grocery store",
+    "store_name_str": "Quality Foods - Powell River",
+    "store_type_str": "grocery",
+    "location_city_str": "Powell River",
+    "location_country_str": "Canada",
+    "location_neighborhood_str": "4871 Joyce Ave",
+    "location_state_str": "british columbia"
+  },
+  {
+    "description_str": "Department store",
+    "store_name_str": "Walmart - Courtenay",
+    "store_type_str": "supermarket",
+    "location_city_str": "Courtenay",
+    "location_country_str": "Canada",
+    "location_neighborhood_str": "3199 Cliffe Ave",
+    "location_state_str": "british columbia"
+  },
+  {
+    "description_str": "Large grocery store",
+    "store_name_str": "Thrifty Foods",
+    "store_type_str": "grocery",
+    "location_city_str": "Courtenay",
+    "location_country_str": "Canada",
+    "location_neighborhood_str": "1599 Cliffe Ave",
+    "location_state_str": "british columbia"
+  },
+  {
+    "description_str": "Supermarket",
+    "store_name_str": "Superstore - Courtenay",
+    "store_type_str": "supermarket",
+    "location_city_str": "Courtenay",
+    "location_country_str": "Canada",
+    "location_neighborhood_str": "757 Ryan Rd",
+    "location_state_str": "british columbia"
+  },
+  {
+    "description_str": "Speciality Grocery",
+    "store_name_str": "Edible Island Whole Foods Market",
+    "store_type_str": "speciality",
+    "location_city_str": "Courtenay",
+    "location_country_str": "Canada",
+    "location_neighborhood_str": "477 6th St",
+    "location_state_str": "british columbia"
+  }
+]
